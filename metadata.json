@@ -1,0 +1,6 @@
+{
+  "name": "AI Realtor for WhatsApp",
+  "description": "WhatsApp AI assistant for selling apartments: chat simulation, owner CRM, knowledge base, and automated viewing scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
